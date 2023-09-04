@@ -1,7 +1,7 @@
 # Hawk HUB
 # Join our Discord: https://discord.gg/3nfgqgJCqZ
-# Website: https://hawksoftworks.ga
-# How to reach me: Hanki#5890
+# 
+# How to reach us: __spyro or falpearx
 
 # hey kürtman
 
@@ -9,4 +9,5 @@
 
 # but you cant steal :)
 
-# This script is in beta. Some things could be change at future
+# This script is discontinued
+# We may comeback 2-3 years later

@@ -1,0 +1,77 @@
+print([[
+--[[
+
+db   db  .d8b.  db   d8b   db db   dD      db   db db    db d8888b.
+88   88 d8' `8b 88   I8I   88 88 ,8P'      88   88 88    88 88  `8D
+88ooo88 88ooo88 88   I8I   88 88,8P        88ooo88 88    88 88oooY'
+88~~~88 88~~~88 Y8   I8I   88 88`8b        88~~~88 88    88 88~~~b.
+88   88 88   88 `8b d8'8b d8' 88 `88.      88   88 88b  d88 88   8D
+YP   YP YP   YP  `8b8' `8d8'  YP   YD      YP   YP ~Y8888P' Y8888P'
+
+   __  ___        __      ___         ____ __            __     ____     _____                  __        __
+  /  |/  /__ ____/ /__   / _ )__ __  / / // /__ __    __/ /__  / __/__  / _/ /__    _____  ____/ /__ ___ / /
+ / /|_/ / _ `/ _  / -_) / _  / // / / / _  / _ `/ |/|/ /  '_/ _\ \/ _ \/ _/ __/ |/|/ / _ \/ __/  '_/(_-</ /
+/_/  /_/\_,_/\_,_/\__/ /____/\_, / / /_//_/\_,_/|__,__/_/\_\ /___/\___/_/ \__/|__,__/\___/_/ /_/\_\/___/ /
+                              /_/                                                                 /_/
+This Script existed between 2022-2024
+  
+Credits:
+¯¯¯¯¯¯¯¯
+UIS, UI Lib and Most of Script: Hanki
+Some Script like Horrific Housing Etc: Alex
+  
+Thanks To These People For making scripts/giving permission to use their script, for Hawk HUB:
+Ege -> Super Doomspire
+Tuaxa -> Tower Of Hell
+Tomato -> Flood Escape 2
+Lil Rhytxm -> Untitled Blue Lock game etc.
+Aron -> My Prison etc.
+Ediz -> The Strongest Battlegrounds etc.
+
+Note For Skywars Dev (0_0)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Dude when you patch our script, i always been there to unpatch lol. Noe you should be relaxed xddd.
+You wanted our skywars script. Now here you go. Use it! :)
+Also sorry for doxxing you, our friend found your name somehow but we didnt mean to scare you.
+  
+Supported Games:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+1) Skywars
+2) Test
+3) Fnaf Five Nights Simulator
+4) Kick Off
+5) Kat
+6) Murder Mystery 2
+7) Lucky Blocks
+8) Super Doomspire
+9) Tower Of Hell
+10) Hide and Seek Extreme
+11) [Beta] My Prison
+12) Flood Escape 2
+13) Egoist
+14) Kill Monsters to Save Princess
+15) Block Eating Simulator
+16) Untitled Blue Lock Game
+17) The Strongest Battlegrounds
+18) Zombie Attack
+19) Doors
+20) Prison Life
+21) Infectious Smile
+22) TPS Street Soccer
+23) Horrific Housing
+24) Demon Soul
+25) Anime Fighting Simulator
+26) Slap Battles
+27) Blade Ball
+
+Note To From Hanki
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Thanks for supporting our script since 2022!!!
+Hope yall enjoying our script!
+Some scripts may get patches from game devs, so dont be mad at us :D
+Have Fun!
+
+  
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/HawkHUB/main/MainSources/HawkKeyless.lua"))()

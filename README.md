@@ -1,8 +1,7 @@
 # Hawk HUB
-# Join our Discord: https://discord.gg/3nfgqgJCqZ
 # Our Website: http://hawkhub.rf.gd
 # 
-# How to reach us: __spyro or falpearx
+# How to reach us: falpearx
 
 # hey kürtman
 
@@ -11,4 +10,3 @@
 # but you cant steal :)
 
 # This script is discontinued
-# We may comeback 2-3 years later

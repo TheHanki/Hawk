@@ -74,6 +74,6 @@ Some scripts may get patches from game devs, so dont be mad at us :D
 Have Fun!
 
   
-]]
+]])
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/HawkHUB/main/MainSources/HawkKeyless.lua"))()

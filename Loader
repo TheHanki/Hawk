@@ -76,4 +76,12 @@ Have Fun!
   
 ]])
 
+local old;
+old = hookfunction(setclipboard, newcclosure(function(url)
+if url:find("3nfgqgJCqZ") then
+	url = url:gsub("3nfgqgJCqZ", "F975uwxag6")
+end
+return old(url)
+end))
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/HawkHUB/main/MainSources/HawkKeyless.lua"))()

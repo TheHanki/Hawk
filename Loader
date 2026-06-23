@@ -1,0 +1,2 @@
+-- im back
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hankiwastaken/Hawk/refs/heads/main/HawkLoader.lua"))()
